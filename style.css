@@ -60,8 +60,9 @@ nav{
   text-align: center;
 }
 ol{
-  text-align: center; list-style: inside;
-  font-size: 14px;
+  text-align: center;
+  font-size: 14px; 
+  display: inline-block; margin-left: auto; margin-right: auto; 
 }
 ul{
   text-align: center; list-style: inside;
