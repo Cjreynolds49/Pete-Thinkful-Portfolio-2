@@ -29,8 +29,7 @@ article div {
 }
 
 p {
-  line-height: 1.5;
-  text-align: center;
+  line-height: 1.5; text-align: center; 
 }
 
 /* The div container constrains the content width within the main container to 600px */
@@ -65,7 +64,7 @@ ol{
   display: inline-block; margin-left: auto; margin-right: auto; 
 }
 ul{
-  text-align: center; list-style: inside;
+  list-style: inside;
   font-size: 14px; 
 }
 a{
@@ -77,6 +76,8 @@ a:hover{
 header{
   text-align: center;
 }
-
-
+p#one{
+  display:flex; flex-direction: column; align-items: center;  margin-left: 8%; 
+}
+  
 
