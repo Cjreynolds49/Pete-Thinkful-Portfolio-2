@@ -59,15 +59,15 @@ nav{
   text-align: center;
 }
 ol{
-  text-align: center;
   font-size: 14px; 
-  display: inline-block; margin-left: auto; margin-right: auto; 
+  margin-left: 10%;
 }
 
-}
+
 a{
   color: #d62828;
 }
+
 a:hover{
   color: #f77f00;
 }
@@ -83,4 +83,12 @@ p#one{
 }
 p#two{
   display:flex; flex-direction: row; margin-right: 20%;
+}
+p#three{
+  display:flex; flex-direction: row;
+  margin-left: 10%;
+}
+.a{
+  left: 0px;
+  text-align: left;
 }
