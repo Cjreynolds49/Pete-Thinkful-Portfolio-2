@@ -64,8 +64,7 @@ ol{
   display: inline-block; margin-left: auto; margin-right: auto; 
 }
 ul{
-  list-style: inside;
-  font-size: 14px; 
+  margin-right: 60%;
 }
 a{
   color: #d62828;
@@ -78,6 +77,9 @@ header{
 }
 p#one{
   display:flex; flex-direction: column; align-items: center;  margin-left: 8%; 
+}
+div#about{
+  margin-right: 60%;
 }
   
 
